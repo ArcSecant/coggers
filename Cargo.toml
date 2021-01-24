@@ -1,0 +1,16 @@
+[package]
+name = "poggers"
+version = "0.1.0"
+authors = ["ArcSecant <lightlance7@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cranelift = "0.68.0"
+cranelift-module = "0.68.0"
+cranelift-codegen = "0.68.0"
+cranelift-entity = "0.68.0"
+cranelift-simplejit = "0.68.0"
+cranelift-preopt = "0.68.0"
+peg = "0.6"
+log = "0.4.11"
+target-lexicon = "0.11.1"
